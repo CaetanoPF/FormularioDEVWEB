@@ -78,7 +78,7 @@ function salvarPerfil() {
 <template>
   <div class="container">
     <main>
-      <h1>Formulário 1</h1>
+      <h1>Formulário</h1>
       <transition name="form" mode="out-in">
         <section v-if="mostrarPerfil">
           <div class="mt-5 mb-3">
